@@ -1,0 +1,14 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "my first server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "author": "LuisFer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
